@@ -17,6 +17,8 @@ In this project, I explored cloud service models, specifically **IaaS**, **PaaS*
 - **Google Workspace**: Cloud-based productivity tools.
 - **Slack**: Cloud-based team communication platform.
 
+---
+
 ## Research on AWS and GCP Offerings
 
 ### AWS (Amazon Web Services)
@@ -30,6 +32,8 @@ In this project, I explored cloud service models, specifically **IaaS**, **PaaS*
 - **Compute Engine**: Scalable virtual machines for running applications.
 - **Cloud Functions**: Serverless compute for event-driven code execution.
 - **BigQuery**: Managed data warehouse for analytics.
+
+---
 
 ## Managed Service Setup (AWS Elastic Beanstalk)
 
