@@ -1,4 +1,4 @@
-# Cloud Services Models Assignment
+# Cloud Services Models
 
 ## Introduction
 In this project, I explored cloud service models, specifically **IaaS**, **PaaS**, and **SaaS**, and successfully set up a managed service using **AWS Elastic Beanstalk**. The goal was to understand the differences between these models and gain hands-on experience with a cloud service platform.
